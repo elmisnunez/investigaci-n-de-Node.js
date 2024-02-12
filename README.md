@@ -6,7 +6,7 @@ es un entorno de ejecución de JavaScript que permite ejecutar código JavaScrip
 
 Ahora, repasemos el uso de JavaScript necesario para trabajar con Node.js:
 
-# Lexical Structure:
+# Lexical Structure:#
 Es la forma en que se escriben y estructuran los caracteres en JavaScript, incluyendo la sintaxis de palabras clave, operadores, y otros elementos.
 
 # Expressions:
